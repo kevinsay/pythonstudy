@@ -20,6 +20,3 @@ else:
     setattr(dog,choice,bulk)
     func = getattr(dog, choice)
     func(dog)
-
-
-print('111111111111111')
